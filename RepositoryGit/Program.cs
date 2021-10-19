@@ -10,6 +10,7 @@ namespace RepositoryGit
     {
         static void Main(string[] args)
         {
+            Console.WriteLine(  "fhxgxg");
         }
     }
 }
